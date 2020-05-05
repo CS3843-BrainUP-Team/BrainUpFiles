@@ -1,5 +1,5 @@
 
-public class Main {
+public class Example {
 	public static void main(String[] args) {
 		Professor prof = new Professor("Dr. Jones");
 		prof.createCourse("Systems", "CS1234");
